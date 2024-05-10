@@ -1,0 +1,7 @@
+---
+permalink: /about/
+title: "About"
+---
+I am a second year [Education Data Science Master](https://ed.stanford.edu/eds) student at [Stanford Graduate School of Education](https://ed.stanford.edu/). I am a recent graduate with a passion for finance, data analytics, and a drive for excellence. I pursued my undergraduate studies at [Dartmouth University](https://www.dartmouth.edu/), where I honed my analytical skills and developed a strong foundation in business administration. During my time at Dartmouth, I was actively involved in the Dartmouth Sports [Alpine Skiing Program](https://dartmouthsports.com/sports/alpine-skiing), where I found solace and camaraderie on the slopes. Skiing has always been more than just a hobby for me; it taught me teamwork, discipline, and the importance of perseverance.
+
+After completing my degree, I embarked on a professional journey that led me to gain invaluable experience at [Deloitte and Touche](https://www2.deloitte.com/). As a member of their dynamic team, I was exposed to diverse challenges that allowed me to refine my problem-solving abilities and enhance my understanding of corporate finance. Following my tenure at Deloitte and Touche, I pursued a finance internship opportunity at [UBS](https://www.ubs.com/), where I had the privilege of working in their London office. This experience broadened my perspective on global financial markets and reinforced my passion for finance as a career path.
