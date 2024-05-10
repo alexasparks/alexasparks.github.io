@@ -1,4 +1,4 @@
-title: Jane Stanford
+tetitle: Jane Stanford
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: /
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # remote_theme: mmistakes/minimal-mistakes
-theme: no-style-please
+remote_theme: "no-style-please"
 #https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
 #minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 minimal_mistakes_skin: "default"
