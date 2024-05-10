@@ -1,5 +1,4 @@
 source "https://rubygems.org"
-gem "no-style-please"
 
 gem "github-pages", group: :jekyll_plugins
 
@@ -13,4 +12,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-feed"
   gem "jekyll-include-cache"
+  gem "no-style-please"
 end
